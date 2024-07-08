@@ -13,7 +13,7 @@ This project implements a chatbot that provides information about LoRaWAN techno
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Required Python libraries:
   - `requests`
   - `beautifulsoup4`
