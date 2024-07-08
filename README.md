@@ -18,3 +18,5 @@ This project implements a chatbot that provides information about LoRaWAN techno
   - `requests`
   - `beautifulsoup4`
   - `markdownify`
+  - `pandas`
+  - `numpy`
