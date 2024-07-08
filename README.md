@@ -2,11 +2,12 @@
 
 ## Description
 
-This project implements a chatbot that provides information about LoRaWAN technology. The chatbot fetches content from specified URLs related to LoRaWAN, cleans the HTML content, and converts it into a conversational format that users can interact with.
+This project is about a chatbot about LoRa and LoRaWAN. LoRa is a wireless technology like WiFi, Bluetooth and LoRaWAN is a network protocol that uses LoRa technology, for low-power, wide-area networks.
+For this part of the project I have used the web scraping method to obtain data from two important sites, such as The Things Network and Semtech.
 
 ## Features
 
-- Retrieves information from specified URLs about LoRaWAN technology
+- Retrieves information from specified URLs about LoRa and LoRaWAN technology
 - Cleans HTML content to remove unnecessary elements
 - Converts cleaned content into a format suitable for chatbot responses
 - Provides a conversational interface to interact with users and answer queries about LoRaWAN
